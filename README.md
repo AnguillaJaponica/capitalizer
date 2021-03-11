@@ -1,4 +1,4 @@
-# vue-chatkit
+# capitalizer
 
 ## Project setup
 ```
